@@ -9,10 +9,10 @@ Created in response to the upcoming shutdown of messenger.com to preserve a dedi
 ## ✨ Features
 
 - Removes Facebook header and top navigation from Messages page
-- Makes Messenger behave like a standalone web app
+- Makes Messenger™ behave like a standalone web app
 - Cleaner, distraction-free chat interface
 - Additional customization features (Toggleable):
-  - OG Messenger from Meta™ Splash screen
+  - OG Messenger™ from Meta™ Splash screen
   - Quick Facebook button at the top left
   - GIF autoplay
   - Hide useless scrollbar on the right
@@ -29,7 +29,7 @@ This extension exists to preserve the **standalone Messenger™ web experience**
 ## ⚙️ Installation
 
 Not published yet.
-Can be installed manually using **Developer Mode**:
+Can be installed manually using **Developer Mode**.
 
 
 ---
@@ -38,7 +38,7 @@ Can be installed manually using **Developer Mode**:
 
 - Works only on `facebook.com/messages`
 - Designed for Chromium-based browsers (Chrome, Edge, Brave etc.)
-- Does not modify any Facebook Api or access any data.
+- Does not modify any Facebook™ Api or access any data.
 
 ---
 
